@@ -1,0 +1,1 @@
+<img src="images/firefox-icon.png" alt="测试图片">
